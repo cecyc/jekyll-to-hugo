@@ -14,5 +14,6 @@ This script iterates over all the files in a directory in Jekyll and copies them
 Example:
 
 ```
-python jekyll-to-hugo.py -dest "/Users/YOUR_USERNAME/HUGO_SITE/content/posts" -source "/Users/YOUR_USERNAME/PATH/JEKYLL_SITE/_posts"
+python jekyll-to-hugo.py -dest "/Users/YOUR_USERNAME/HUGO_SITE/content/posts" 
+-source "/Users/YOUR_USERNAME/PATH/JEKYLL_SITE/_posts"
 ```
